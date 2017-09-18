@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edges xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="http://sumo.sf.net/xsd/edges_file.xsd">
+ <edge id="D1" from="92" to="3" type="b"/>
+ <edge id="D5" from="3" to="92" type="b"/>
+ <edge id="D2" from="3" to="93" type="b"/>
+ <edge id="D6" from="93" to="3" type="b"/>
+ <edge id="D3" from="3" to="6" type="b"/>
+ <edge id="D7" from="6" to="3" type="b"/>
+ <edge id="D4" from="3" to="96" type="b"/>
+ <edge id="D8" from="96" to="3" type="b"/>
+</edges>

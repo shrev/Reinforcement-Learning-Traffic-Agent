@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+<vType id="type1" color="255,105,180"/>
+<vType id="type0" color="0,255,255"/>
+<route id="0" edges="D1 D4"/> 
+<route id="1" edges="D1 D2"/> 
+<route id="2" edges="D1  D3"/> 
+<route id="3" edges="D7  D5"/> 
+<route id="4" edges="D7  D4"/> 
+<route id="5" edges="D7 D2"/> 
+<route id="6" edges="D8 D5"/> 
+<route id="7" edges="D8 D3"/> 
+<route id="8" edges="D8 D2"/> 
+<route id="9" edges="D6 D3"/> 
+<route id="10" edges="D6 D5"/> 
+<route id="11" edges="D6 D4"/> 
+<vehicle id="0" depart="0" route="4" type="type0"/>
+</routes>
